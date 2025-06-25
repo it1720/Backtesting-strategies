@@ -1,0 +1,541 @@
+[
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 58106.7025876617,
+        "DCA Portfolio": 24794.404979017923,
+        "Rebalanced Portfolio": 71954.40969132367
+    },
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 64723.8563600707,
+        "DCA Portfolio": 25567.041453309517,
+        "Rebalanced Portfolio": 76510.98636357315
+    },
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 174016.06421093893,
+        "DCA Portfolio": 47803.613888067346,
+        "Rebalanced Portfolio": 137156.12227362418
+    },
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 291315.743694045,
+        "DCA Portfolio": 71229.22304722686,
+        "Rebalanced Portfolio": 201001.98414292838
+    },
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 331167.4563966618,
+        "DCA Portfolio": 72562.56188139471,
+        "Rebalanced Portfolio": 203494.81307609618
+    },
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 323820.6074660008,
+        "DCA Portfolio": 66833.97703075205,
+        "Rebalanced Portfolio": 200443.24558237498
+    },
+    {
+        "Start Date": "2021-01-30",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 558485.9274776629,
+        "DCA Portfolio": 115718.14346258901,
+        "Rebalanced Portfolio": 371330.4516939299
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 26888.374378163127,
+        "DCA Portfolio": 23592.86573373595,
+        "Rebalanced Portfolio": 34789.03928903979
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 28247.992114303976,
+        "DCA Portfolio": 24285.60536184148,
+        "Rebalanced Portfolio": 36992.08598978337
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 61440.08905679195,
+        "DCA Portfolio": 43866.153935502356,
+        "Rebalanced Portfolio": 66313.23565822853
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 98286.23716361975,
+        "DCA Portfolio": 64776.14913209917,
+        "Rebalanced Portfolio": 97181.89550190291
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 108087.589974764,
+        "DCA Portfolio": 65454.85334989487,
+        "Rebalanced Portfolio": 98387.1464944254
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 104652.67386268426,
+        "DCA Portfolio": 60250.160042960626,
+        "Rebalanced Portfolio": 96911.75253472729
+    },
+    {
+        "Start Date": "2021-03-20",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 184232.36308303097,
+        "DCA Portfolio": 104951.046751221,
+        "Rebalanced Portfolio": 179533.53698008158
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 14228.12446178044,
+        "DCA Portfolio": 23607.028305985754,
+        "Rebalanced Portfolio": 17818.350813372985
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 14540.743332387736,
+        "DCA Portfolio": 24290.784089910645,
+        "Rebalanced Portfolio": 18946.713647596334
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 27427.329750151657,
+        "DCA Portfolio": 43672.2987880488,
+        "Rebalanced Portfolio": 33964.504932461285
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 43512.72234559768,
+        "DCA Portfolio": 64353.387753924675,
+        "Rebalanced Portfolio": 49774.90445696152
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 46695.96981460176,
+        "DCA Portfolio": 64893.94600256489,
+        "Rebalanced Portfolio": 50392.213397990345
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 43933.62230606279,
+        "DCA Portfolio": 59684.344107722405,
+        "Rebalanced Portfolio": 49636.54185031085
+    },
+    {
+        "Start Date": "2021-04-27",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 74504.0217168837,
+        "DCA Portfolio": 103986.73741522792,
+        "Rebalanced Portfolio": 91954.00649320423
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 17373.205310082445,
+        "DCA Portfolio": 23991.929552078822,
+        "Rebalanced Portfolio": 21323.41934010636
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 17781.432405658248,
+        "DCA Portfolio": 24644.814475994397,
+        "Rebalanced Portfolio": 22673.743740717087
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 33259.93967268734,
+        "DCA Portfolio": 44183.33342542192,
+        "Rebalanced Portfolio": 40645.70222797703
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 52263.1848907706,
+        "DCA Portfolio": 64942.27880813391,
+        "Rebalanced Portfolio": 59566.183844183746
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 56009.99075923364,
+        "DCA Portfolio": 65354.79993402551,
+        "Rebalanced Portfolio": 60304.92434546958
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 53129.85460485275,
+        "DCA Portfolio": 60045.3914510485,
+        "Rebalanced Portfolio": 59400.60376814319
+    },
+    {
+        "Start Date": "2021-05-22",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 91002.82410961605,
+        "DCA Portfolio": 104632.60159402345,
+        "Rebalanced Portfolio": 110042.386132947
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 16211.95664770374,
+        "DCA Portfolio": 24611.087385672552,
+        "Rebalanced Portfolio": 19373.21527427135
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 16623.352618974648,
+        "DCA Portfolio": 25205.870607085257,
+        "Rebalanced Portfolio": 20600.041276512347
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 31442.369475665,
+        "DCA Portfolio": 44835.726294139124,
+        "Rebalanced Portfolio": 36928.31467022106
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 48761.04748577816,
+        "DCA Portfolio": 65445.755524074426,
+        "Rebalanced Portfolio": 54118.3608629644
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 52276.64117842364,
+        "DCA Portfolio": 65454.72698887955,
+        "Rebalanced Portfolio": 54789.537400599285
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 50249.58692321205,
+        "DCA Portfolio": 59942.614058547326,
+        "Rebalanced Portfolio": 53967.92446216447
+    },
+    {
+        "Start Date": "2021-08-10",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 88472.82400584569,
+        "DCA Portfolio": 104504.86909374066,
+        "Rebalanced Portfolio": 99978.09459378316
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 10313.47726443411,
+        "DCA Portfolio": 26545.147944116005,
+        "Rebalanced Portfolio": 9476.384510594731
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 10190.171425505232,
+        "DCA Portfolio": 26968.582122042848,
+        "Rebalanced Portfolio": 10076.484946182769
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 15476.889001386902,
+        "DCA Portfolio": 47899.922628409,
+        "Rebalanced Portfolio": 18063.439867309982
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 22310.661576113485,
+        "DCA Portfolio": 69408.29001797776,
+        "Rebalanced Portfolio": 26471.92989702966
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 22508.326148770648,
+        "DCA Portfolio": 68973.50323566076,
+        "Rebalanced Portfolio": 26800.235077923688
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 21302.99542688583,
+        "DCA Portfolio": 62813.981665446816,
+        "Rebalanced Portfolio": 26398.344115930002
+    },
+    {
+        "Start Date": "2021-11-18",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 38754.43012136023,
+        "DCA Portfolio": 109158.56475084361,
+        "Rebalanced Portfolio": 48904.162452865836
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 18083.431062174503,
+        "DCA Portfolio": 28268.938845121877,
+        "Rebalanced Portfolio": 17394.190618413384
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 17939.890009901945,
+        "DCA Portfolio": 28489.265875322468,
+        "Rebalanced Portfolio": 18495.693132915687
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 28111.68895898013,
+        "DCA Portfolio": 50509.01279781067,
+        "Rebalanced Portfolio": 33155.99065497605
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 40900.13335921803,
+        "DCA Portfolio": 72773.77073362778,
+        "Rebalanced Portfolio": 48590.028628682936
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 41655.753961140916,
+        "DCA Portfolio": 71945.38734297361,
+        "Rebalanced Portfolio": 49192.64272597925
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 39578.47235766192,
+        "DCA Portfolio": 65199.27714736127,
+        "Rebalanced Portfolio": 48454.95970004017
+    },
+    {
+        "Start Date": "2022-01-27",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 71995.00726659382,
+        "DCA Portfolio": 112917.11489275578,
+        "Rebalanced Portfolio": 89765.07050636786
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 17148.36678666751,
+        "DCA Portfolio": 28886.36206355143,
+        "Rebalanced Portfolio": 16747.223142775525
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 17060.33962705433,
+        "DCA Portfolio": 29028.455774619753,
+        "Rebalanced Portfolio": 17807.755869326757
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 27180.803910231833,
+        "DCA Portfolio": 51506.05958388699,
+        "Rebalanced Portfolio": 31922.771585063267
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 39944.547037747245,
+        "DCA Portfolio": 74029.07448662452,
+        "Rebalanced Portfolio": 46782.74889646064
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 40931.37625621039,
+        "DCA Portfolio": 73010.5921494895,
+        "Rebalanced Portfolio": 47362.94908960559
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 38829.55031757609,
+        "DCA Portfolio": 66006.92339283956,
+        "Rebalanced Portfolio": 46652.70378328149
+    },
+    {
+        "Start Date": "2022-02-25",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 69903.30970170548,
+        "DCA Portfolio": 114108.82325427393,
+        "Rebalanced Portfolio": 86426.30744805823
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 15662.85482904812,
+        "DCA Portfolio": 30833.674850543524,
+        "Rebalanced Portfolio": 14949.877201882318
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 15574.634883587745,
+        "DCA Portfolio": 30657.13725532774,
+        "Rebalanced Portfolio": 15896.591406103036
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 24614.943730657178,
+        "DCA Portfolio": 54236.380718639295,
+        "Rebalanced Portfolio": 28496.755018536194
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 35953.42447200443,
+        "DCA Portfolio": 77371.85664985365,
+        "Rebalanced Portfolio": 41761.92943785377
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 36745.393611994616,
+        "DCA Portfolio": 75820.38945496855,
+        "Rebalanced Portfolio": 42279.861369976425
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 34963.55669495779,
+        "DCA Portfolio": 68171.4475053085,
+        "Rebalanced Portfolio": 41645.841029873576
+    },
+    {
+        "Start Date": "2022-04-22",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 63308.875560751374,
+        "DCA Portfolio": 117455.49733731164,
+        "Rebalanced Portfolio": 77150.86091260321
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 25160.46852669238,
+        "DCA Portfolio": 31878.496211609432,
+        "Rebalanced Portfolio": 24685.906165052536
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 25108.39011307252,
+        "DCA Portfolio": 31502.520444354377,
+        "Rebalanced Portfolio": 26249.16301960205
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 40969.21468403623,
+        "DCA Portfolio": 55674.416134691135,
+        "Rebalanced Portfolio": 47055.11696828556
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 59865.29432147337,
+        "DCA Portfolio": 79118.74609887086,
+        "Rebalanced Portfolio": 68959.16651707415
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 61618.176136677626,
+        "DCA Portfolio": 77266.76660832379,
+        "Rebalanced Portfolio": 69814.39889815621
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 59193.21809715901,
+        "DCA Portfolio": 69251.63258714922,
+        "Rebalanced Portfolio": 68767.47614346378
+    },
+    {
+        "Start Date": "2022-05-26",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 108919.255083505,
+        "DCA Portfolio": 119048.00455725173,
+        "Rebalanced Portfolio": 127394.95363893309
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2023-06-12",
+        "HODL Portfolio": 29572.222322036607,
+        "DCA Portfolio": 32486.327462205336,
+        "Rebalanced Portfolio": 29793.791234366458
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2023-09-15",
+        "HODL Portfolio": 29620.4964364388,
+        "DCA Portfolio": 31965.427568581807,
+        "Rebalanced Portfolio": 31680.509431330218
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2023-12-17",
+        "HODL Portfolio": 49897.99717767774,
+        "DCA Portfolio": 56521.97028872353,
+        "Rebalanced Portfolio": 56791.528011498085
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2024-3-05",
+        "HODL Portfolio": 73999.02647907304,
+        "DCA Portfolio": 80066.68475335959,
+        "Rebalanced Portfolio": 83227.85467823806
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2024-06-13",
+        "HODL Portfolio": 76859.8742397838,
+        "DCA Portfolio": 77940.99090835793,
+        "Rebalanced Portfolio": 84260.04749500086
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2024-09-23",
+        "HODL Portfolio": 73633.79425021246,
+        "DCA Portfolio": 69641.98217273325,
+        "Rebalanced Portfolio": 82996.50068479803
+    },
+    {
+        "Start Date": "2022-06-12",
+        "End Date": "2024-12-27",
+        "HODL Portfolio": 134199.8768981806,
+        "DCA Portfolio": 119428.3658386989,
+        "Rebalanced Portfolio": 153754.88457472686
+    }
+]
